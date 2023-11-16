@@ -1,0 +1,10 @@
+INSERT INTO `oradores` (`id_orador`, `nombre`, `apellido`, `mail`, `tema`, `fecha_alta`) VALUES (1, 'Bill', 'Gates', 'billgates@microsoft.com', 'Historia de Windows', '2023-11-15 15:19:51');
+INSERT INTO `oradores` (`id_orador`, `nombre`, `apellido`, `mail`, `tema`, `fecha_alta`) VALUES (2, 'Steve', 'Jobs', 'stevejobs@apple.com', 'Creacion del Iphone', '2023-11-1 15:29:56');
+INSERT INTO `oradores` (`id_orador`, `nombre`, `apellido`, `mail`, `tema`, `fecha_alta`) VALUES (3, 'Michael', 'Dell', 'michaeldell@dell.com', 'Presentacion de la ultima nothebook de Dell', '2023-11-19 15:31:47');
+INSERT INTO `oradores` (`id_orador`, `nombre`, `apellido`, `mail`, `tema`, `fecha_alta`) VALUES (4, 'Lisa', 'Su', 'lisasu@amd.com', 'Presentacion de los ùltimos procesadores Ryzen', '2023-11-13 10:50:08');
+INSERT INTO `oradores` (`id_orador`, `nombre`, `apellido`, `mail`, `tema`, `fecha_alta`) VALUES (5, 'Jen-Hsun', 'Huang', 'huang@nvidia.com', 'Presentacion de las nuevas RTX', '2023-11-3 10:51:43');
+INSERT INTO `oradores` (`id_orador`, `nombre`, `apellido`, `mail`, `tema`, `fecha_alta`) VALUES (6, 'Bill', 'Gates', 'billgates@microsoft.com', 'Novedades en Microsoft Windows 12', '2023-11-28 10:53:08');
+INSERT INTO `oradores` (`id_orador`, `nombre`, `apellido`, `mail`, `tema`, `fecha_alta`) VALUES (7, 'Kim', 'Dotcom', 'dotcom@gmail.com', 'Evolucion de Mega', '2023-11-6 10:54:22');
+INSERT INTO `oradores` (`id_orador`, `nombre`, `apellido`, `mail`, `tema`, `fecha_alta`) VALUES (8, 'Dan', 'Houser', 'danhouser@rockstargames.com', 'Presentacion de Grand Theft Auto VI', '2023-11-13 10:55:28');
+INSERT INTO `oradores` (`id_orador`, `nombre`, `apellido`, `mail`, `tema`, `fecha_alta`) VALUES (9, 'Toby', 'Gard', 'tobygard@coredesing.com', 'Desarrollo de la saga Tomb Raider', '2023-11-13 10:57:00');
+INSERT INTO `oradores` (`id_orador`, `nombre`, `apellido`, `mail`, `tema`, `fecha_alta`) VALUES (10, 'Elon', 'Musk', 'elonmusk@tesla.com', 'Desarrollo de la Inteligencia Artificial', '2023-11-17 10:57:56');
